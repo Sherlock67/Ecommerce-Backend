@@ -1,3 +1,4 @@
+using Ecom_BAL.Services;
 using Ecomm_DAL.Data;
 using Ecomm_DAL.Interface;
 using Ecomm_DAL.Repository;
@@ -12,6 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<INavCategory, NavCategoryRepository>();
+builder.Services.AddTransient<NavCategoryServices>();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection")
     ));
