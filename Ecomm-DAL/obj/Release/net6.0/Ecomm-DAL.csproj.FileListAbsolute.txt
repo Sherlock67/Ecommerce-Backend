@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\bin\Release\net6.0\Ecomm-DAL.deps.json
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\bin\Release\net6.0\Ecomm-DAL.runtimeconfig.json
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\bin\Release\net6.0\Ecomm-DAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\bin\Release\net6.0\Ecomm-DAL.pdb
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.AssemblyInfo.cs
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\refint\Ecomm-DAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.pdb
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\Ecomm-DAL.genruntimeconfig.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecomm-DAL\obj\Release\net6.0\ref\Ecomm-DAL.dll

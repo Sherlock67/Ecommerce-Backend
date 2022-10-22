@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Ecommercre_Backend_API</RootNamespace>
+    <UserSecretsId>e2ab4803-6c3f-468c-9ee9-6fced4bce306</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

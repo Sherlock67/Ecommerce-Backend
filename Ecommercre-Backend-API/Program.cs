@@ -13,6 +13,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<INavCategory, NavCategoryRepository>();
+builder.Services.AddTransient<IProductCategory, ProductCategoryRepository>();
+builder.Services.AddTransient<ProductCategoryService>();
 builder.Services.AddTransient<NavCategoryServices>();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection")
@@ -29,6 +31,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
 
 app.MapControllers();
 

@@ -15,8 +15,8 @@ namespace Ecommercre_Backend_API.Controllers
         {
             this.navCategoryServices = navCategoryServices;
         }
-        [HttpPost("CreatePrescription")]
-        public async Task<Object> CreatePrescription([FromBody] NavCategory navCategory)
+        [HttpPost("CreateNavigationCategory")]
+        public async Task<Object> CreateNavigationCategory([FromBody] NavCategory navCategory)
         {
             try
             {

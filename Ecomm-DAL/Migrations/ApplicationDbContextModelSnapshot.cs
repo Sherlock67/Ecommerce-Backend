@@ -37,6 +37,23 @@ namespace Ecomm_DAL.Migrations
 
                     b.ToTable("NavCategories");
                 });
+
+            modelBuilder.Entity("Ecomm_DAL.Models.ProductCategory", b =>
+                {
+                    b.Property<int>("ProductID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductID"), 1L, 1);
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ProductID");
+
+                    b.ToTable("ProductCategories");
+                });
 #pragma warning restore 612, 618
         }
     }

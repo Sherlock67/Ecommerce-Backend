@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\bin\Release\net6.0\Ecom-BAL.deps.json
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\bin\Release\net6.0\Ecom-BAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\bin\Release\net6.0\Ecom-BAL.pdb
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\bin\Release\net6.0\Ecomm-DAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\bin\Release\net6.0\Ecomm-DAL.pdb
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.AssemblyInfo.cs
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.csproj.CopyComplete
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\refint\Ecom-BAL.dll
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\Ecom-BAL.pdb
+C:\Users\USER\source\repos\Ecommercre-Backend-API\Ecom-BAL\obj\Release\net6.0\ref\Ecom-BAL.dll

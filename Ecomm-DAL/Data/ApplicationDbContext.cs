@@ -17,5 +17,6 @@ namespace Ecomm_DAL.Data
 
         }
         public DbSet<NavCategory> NavCategories { get; set; }
+        public DbSet<ProductCategory> ProductCategories { get; set; }
     }
 }
